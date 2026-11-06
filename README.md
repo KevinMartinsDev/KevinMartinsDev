@@ -2,6 +2,8 @@
 
 Developer based in Lyon 🇫🇷 · [LinkedIn](https://www.linkedin.com/in/k%C3%A9vin-martins-6877ab129/)
 
+🧟‍♂️⚡ Creator of [igor-php](https://github.com/igor-php/igor-php), a fast static linter written in Go that gets Symfony and Laravel Octane apps ready for FrankenPHP worker mode.
+
 #### 👷 Recent pull requests
 
 - ![](./assets/pr-merged.svg) [feat(reporter): group incomplete resets per class and list keyed caches apart](https://github.com/igor-php/igor-php/pull/128) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (today)
