@@ -6,13 +6,13 @@ Developer based in Lyon 🇫🇷 · [LinkedIn](https://www.linkedin.com/in/k%C3%
 
 #### 👷 Recent pull requests
 
-- ![](./assets/pr-merged.svg) [feat(reporter): group incomplete resets per class and list keyed caches apart](https://github.com/igor-php/igor-php/pull/128) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat(analyzer): report Doctrine listeners clearing collected state only in postFlush](https://github.com/igor-php/igor-php/pull/127) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat(analyzer): report state restorations that do not run on exception](https://github.com/igor-php/igor-php/pull/126) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat(analyzer): report shared services whose reset method is never wired](https://github.com/igor-php/igor-php/pull/125) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat(reporter): fold the findings of code that never runs during a request](https://github.com/igor-php/igor-php/pull/124) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat(analyzer): exempt lazy init, reset-method writes and $_ENV reads](https://github.com/igor-php/igor-php/pull/123) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat(demo-leak): add the remaining Octane documentation patterns to the Laravel lab](https://github.com/igor-php/igor-php/pull/122) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat(laravel): treat every singleton as persistent without Octane](https://github.com/igor-php/igor-php/pull/120) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (2 days ago)
-- ![](./assets/pr-merged.svg) [fix(bundle): only mark services tagged kernel.reset as resettable](https://github.com/igor-php/igor-php/pull/119) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Form] Clear the renderer state when rendering a block fails](https://github.com/symfony/symfony/pull/66956) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [chore(release): prepare v0.11.0-beta.1 (Packagist description, pre-release in project_info)](https://github.com/igor-php/igor-php/pull/137) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
+- ![](./assets/pr-merged.svg) [docs(laravel): Laravel setup for Claude Code and MCP, and pre-release support for a beta](https://github.com/igor-php/igor-php/pull/136) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat(mcp): add the baseline tools and declare the server in the Claude Code plugin](https://github.com/igor-php/igor-php/pull/135) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat(mcp): add igor mcp, a stdio MCP server with read-only audit tools](https://github.com/igor-php/igor-php/pull/134) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
+- ![](./assets/pr-merged.svg) [refactor(cli): load a project once and audit it many times](https://github.com/igor-php/igor-php/pull/133) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat(reporter): give every finding a stable rule_id and embed the rule reference](https://github.com/igor-php/igor-php/pull/132) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat(plugin): add a Claude Code plugin to audit and fix worker-mode leaks with igor](https://github.com/igor-php/igor-php/pull/131) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
+- ![](./assets/pr-merged.svg) [fix(analyzer): read the called method before reporting a dependency mutation](https://github.com/igor-php/igor-php/pull/130) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat(reporter): group incomplete resets per class and list keyed caches apart](https://github.com/igor-php/igor-php/pull/128) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (3 days ago)
+- ![](./assets/pr-merged.svg) [feat(analyzer): report Doctrine listeners clearing collected state only in postFlush](https://github.com/igor-php/igor-php/pull/127) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (3 days ago)
