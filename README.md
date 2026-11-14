@@ -6,13 +6,12 @@ Developer based in Lyon 🇫🇷 · [LinkedIn](https://www.linkedin.com/in/k%C3%
 
 #### 👷 Recent pull requests
 
-- ![](./assets/pr-merged.svg) [fix(analyzer): resolve nullable receiver types, and follow a call result only when the method returns its argument](https://github.com/igor-php/igor-php/pull/151) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (today)
-- ![](./assets/pr-merged.svg) [fix(symfony): drop unresolved placeholders when the service map is loaded](https://github.com/igor-php/igor-php/pull/150) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (today)
-- ![](./assets/pr-merged.svg) [fix(analyzer): judge a closure given to a constructor in that constructor](https://github.com/igor-php/igor-php/pull/148) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (today)
-- ![](./assets/pr-merged.svg) [fix(laravel): only report the request as stale on a worker without Octane](https://github.com/igor-php/igor-php/pull/147) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
-- ![](./assets/pr-merged.svg) [fix(analyzer): drop the dependency mutation of a method that only writes to the database](https://github.com/igor-php/igor-php/pull/146) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
-- ![](./assets/pr-merged.svg) [fix(analyzer): report property writes through a destructuring or a foreach target](https://github.com/igor-php/igor-php/pull/145) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
-- ![](./assets/pr-merged.svg) [fix(symfony): do not audit the classes of unresolved container references](https://github.com/igor-php/igor-php/pull/144) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
-- ![](./assets/pr-merged.svg) [fix(analyzer): read the called method before reporting a closure state leak](https://github.com/igor-php/igor-php/pull/141) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (4 days ago)
-- ![](./assets/pr-merged.svg) [docs(readme): add the JetBrains support badge](https://github.com/igor-php/igor-php/pull/140) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (4 days ago)
-- ![](./assets/pr-merged.svg) [chore(release): prepare v0.11.0-beta.1 (Packagist description, pre-release in project_info)](https://github.com/igor-php/igor-php/pull/137) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (5 days ago)
+- ![](./assets/pr-merged.svg) [fix(corpus): quote the project list step, whose jq object broke the workflow YAML](https://github.com/igor-php/igor-php/pull/159) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (today)
+- ![](./assets/pr-merged.svg) [feat(corpus): add api-platform/demo, with a project root and a PHP version per project](https://github.com/igor-php/igor-php/pull/158) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (today)
+- ![](./assets/pr-merged.svg) [fix(analyzer): follow a closure through the result of one method passed to another](https://github.com/igor-php/igor-php/pull/157) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (today)
+- ![](./assets/pr-merged.svg) [fix(auditor): an interface or abstract return type is shared when a shared service has that type](https://github.com/igor-php/igor-php/pull/156) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
+- ![](./assets/pr-merged.svg) [ci(corpus): run the regression corpus on every pull request](https://github.com/igor-php/igor-php/pull/155) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat(corpus): run igor on real open-source applications with make corpus](https://github.com/igor-php/igor-php/pull/154) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
+- ![](./assets/pr-merged.svg) [fix(analyzer): read the type of a property inherited from a parent class or a trait](https://github.com/igor-php/igor-php/pull/153) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
+- ![](./assets/pr-merged.svg) [fix(analyzer): resolve nullable receiver types, and follow a call result only when the method returns its argument](https://github.com/igor-php/igor-php/pull/151) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
+- ![](./assets/pr-merged.svg) [fix(symfony): drop unresolved placeholders when the service map is loaded](https://github.com/igor-php/igor-php/pull/150) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (1 day ago)
