@@ -4,6 +4,8 @@ Developer based in Lyon 🇫🇷 · [LinkedIn](https://www.linkedin.com/in/k%C3%
 
 🧟‍♂️⚡ Creator of [igor-php](https://github.com/igor-php/igor-php), a fast static linter written in Go that gets Symfony and Laravel Octane apps ready for FrankenPHP worker mode.
 
+🔐 Credited as finder of [GHSA-xmq6-3c6q-fr8m](https://github.com/api-platform/core/security/advisories/GHSA-xmq6-3c6q-fr8m) in [API Platform](https://github.com/api-platform/core), a worker-mode vulnerability spotted while building igor-php.
+
 #### 👷 Recent pull requests
 
 - ![](./assets/pr-merged.svg) [fix(analyzer): trust native functions imported with &#34;use function&#34;, and say when igor read the method it could not prove](https://github.com/igor-php/igor-php/pull/160) on [igor-php/igor-php](https://github.com/igor-php/igor-php) (2 days ago)
